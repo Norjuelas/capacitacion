@@ -1,3 +1,3 @@
 # Capacitacion
 >>Hola mundo
-Estamos en la etapa final de git
+Estamos haciendo un cambio desde github
