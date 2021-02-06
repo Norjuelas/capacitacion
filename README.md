@@ -1,5 +1,3 @@
 # Capacitacion
 >>Hola mundo
-
-Ahora estamos en master
-Estamos en Github
+Estamos en la etapa final de git
